@@ -724,7 +724,7 @@ img {
     flex-shrink: 0;
 }
 
-.modal-checkbox:checked+.modal-checkbox-label .modal-checkbox-custom {
+.modal-checkbox:checked + .modal-checkbox-label .modal-checkbox-custom {
     background-color: #404bbf;
     border: none;
     fill: #f4f4fd;
