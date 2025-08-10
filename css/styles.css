@@ -91,13 +91,12 @@ img {
 
 .header-logo .logo-part {
     color: #2e2f42;
+    display: inline-flex;
+    align-items: center;
 }
 
 .footer-logo .logo-part {
     color: #f4f4fd;
-}
-
-.logo-part {
     display: inline-flex;
     align-items: center;
 }
