@@ -97,6 +97,11 @@ img {
     color: #f4f4fd;
 }
 
+.logo-part {
+    display: inline-flex;
+    align-items: center;
+}
+
 .nav-list {
     display: flex;
     align-items: center;
